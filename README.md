@@ -1,4 +1,4 @@
-# 💻 [Marcos Valens] 
+# 💻 Marcos Valens
 
 🚀 *Full Stack Developer | Passionate about IT and software development*
 
@@ -67,7 +67,7 @@ I am a full-stack developer with experience in technologies such as Java, Spring
 ---
 
 ## 📫 Contact
-[![Manfred](https://img.shields.io/badge/Manfred-00FF00?style=for-the-badge&logo=manfred&logoColor=white)](https://www.getmanfred.com/profile/marcosvalens)
+[![Manfred](https://img.shields.io/badge/Manfred-47A248?style=for-the-badge&logo=manfred&logoColor=white)](https://www.getmanfred.com/profile/marcosvalens)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosvalfra)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14714810)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcosvalens)
