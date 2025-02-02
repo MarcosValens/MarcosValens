@@ -60,9 +60,22 @@ I am a full-stack developer with experience in technologies such as Java, Spring
 ---
 
 ## 📊 GitHub Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MARCOSVALENS&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MARCOSVALENS&show_icons=true&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MARCOSVALENS&theme=react-dark)
+
+<table width="100%" border="0" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARCOSVALENS&layout=compact&theme=radical" style="height:200px;" alt="Top Langs">
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=MARCOSVALENS&show_icons=true&theme=radical" style="height:200px;" alt="GitHub Stats">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MARCOSVALENS&theme=react-dark" style="width:100%; max-width:800px; height:200px;" alt="GitHub Activity">
+    </td>
+  </tr>
+</table>
 
 ---
 
