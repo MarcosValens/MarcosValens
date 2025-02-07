@@ -2,12 +2,8 @@
 
 🚀 *Full Stack Developer | Passionate about IT and software development*
 
----
-
 ## 📌 About Me
 I am a full-stack developer with experience in technologies such as Java, Spring Boot, JavaScript, TypeScript, Angular, RxJS, Vue, Blazor, .NET, and SQL. I am passionate about IT and follow SOLID principles in my developments.
-
----
 
 ## 💼 Work Experience
 
@@ -16,8 +12,6 @@ I am a full-stack developer with experience in technologies such as Java, Spring
 
 - **Logitravel** *(3 years)*  
   Development of web platforms for the tourism industry, optimizing processes and improving user experience using .NET, Angular, PostgreSQL.
-
----
 
 ## ⚙️ Technologies & Tools
   
@@ -54,7 +48,6 @@ I am a full-stack developer with experience in technologies such as Java, Spring
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
 </p>
----
 
 ## 📊 GitHub Statistics
 
@@ -79,11 +72,9 @@ I am a full-stack developer with experience in technologies such as Java, Spring
   </table>
 </div>
 
----
-
 ## 📫 Contact
 
-<p align="left">
+<div align="left" style="display: flex; gap: 15px;">
   <a href="https://www.getmanfred.com/profile/marcosvalens" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/40492612" alt="Manfred" width="40" height="40"/>
   </a>
@@ -96,4 +87,4 @@ I am a full-stack developer with experience in technologies such as Java, Spring
   <a href="https://github.com/marcosvalens" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
-</p>
+</div>
