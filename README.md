@@ -19,6 +19,7 @@ I am a full-stack developer with experience in technologies such as Java, Spring
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="Blazor" title="Blazor" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" alt="RxJS" title="RxJS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40"/>
@@ -44,7 +45,6 @@ I am a full-stack developer with experience in technologies such as Java, Spring
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" title="Nuxt.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quasar/quasar-original.svg" alt="Quasar" title="Quasar" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" alt="RxJS" title="RxJS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" title="Sass" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" title="WordPress" width="40" height="40"/>
 </p>
