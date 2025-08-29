@@ -1,6 +1,6 @@
 # 💻 Marcos Valens
 
-🚀 *Full Stack Developer | Passionate about IT and software development*
+🚀 *Project Manager & Full Stack Developer | Passionate about IT and software development*
 
 ## 📌 About Me
 I am a full-stack developer with experience in technologies such as Java, Spring Boot, JavaScript, TypeScript, Angular, RxJS, Vue, Blazor, .NET, and SQL. I am passionate about IT and follow SOLID principles in my developments.
