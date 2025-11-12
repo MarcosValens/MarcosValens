@@ -3,8 +3,8 @@
 🚀 *Project Manager & Full Stack Developer | Passionate about IT and software development*
 
 ## 📌 About Me
-I am a full-stack developer with experience in technologies such as Java, Spring Boot, JavaScript, TypeScript, Angular, RxJS, Vue, Blazor, .NET, and SQL. I am passionate about IT and follow SOLID principles in my developments.
-
+I am an IT Analyst and Project Manager at Roibos, leading a small development team and coordinating technical projects.
+With a strong background as a full-stack developer, I have hands-on experience in technologies such as Java, Spring Boot, JavaScript, TypeScript, Angular, RxJS, Vue, Blazor, .NET, and SQL. I am passionate about technology, committed to code quality, and always apply SOLID principles and best development practices in every project I work on.
 ## 💼 Work Experience
 
 - **Roibos** *(Present)*  
