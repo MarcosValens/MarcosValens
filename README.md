@@ -8,7 +8,8 @@ With a strong background as a full-stack developer, I have hands-on experience i
 ## 💼 Work Experience
 
 - **Roibos** *(Present)*  
-  Development and maintenance of solutions using .NET, Blazor, SQL and other technologies.
+At Roibos, a marketplace that connects hotels with travel agencies through an advanced booking platform, I work as an IT Analyst and Project Manager.
+My role involves analyzing technical requirements, coordinating development tasks, and supervising a small team to ensure efficient project delivery. I also participate in architectural decisions, oversee system integrations, and contribute to the continuous improvement of internal tools and processes.
 
 - **Logitravel** *(3 years)*  
   Development of web platforms for the tourism industry, optimizing processes and improving user experience using .NET, Angular, PostgreSQL.
