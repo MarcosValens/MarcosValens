@@ -8,12 +8,14 @@ I’m passionate about technology, committed to code quality, and always apply S
 
 ## 💼 Work Experience
 
-**Roibos — Project Manager & IT Analyst** *(Present)*
-Roibos is a marketplace that connects hotels with travel agencies through an advanced booking platform.
-I lead a small development team, coordinate technical projects, and participate in architecture, integration, and process improvement across the platform.
+- **Roibos** — *Project Manager & IT Analyst* *(Present)*  
+*(Previously Full Stack Developer)*  
+Roibos is a **marketplace** that connects hotels with travel agencies through an advanced booking platform.  
+I started as a **Full Stack Developer** and evolved into my current role as **IT Analyst and Project Manager**, leading a small team and coordinating technical projects.  
+I actively contribute to **architecture design**, **system integrations**, and **process optimization** to improve the scalability and reliability of the platform.
 
 - **Logitravel** *(3 years)*  
-  Development of web platforms for the tourism industry, optimizing processes and improving user experience using .NET, Angular, PostgreSQL.
+Development of web platforms for the **travel industry**, optimizing processes and enhancing user experience using **.NET, Angular, and PostgreSQL**.
 
 ## ⚙️ Technologies & Tools
   
