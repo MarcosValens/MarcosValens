@@ -3,13 +3,14 @@
 🚀 *Project Manager & Full Stack Developer | Passionate about IT and software development*
 
 ## 📌 About Me
-I am an IT Analyst and Project Manager at Roibos, leading a small development team and coordinating technical projects.
-With a strong background as a full-stack developer, I have hands-on experience in technologies such as Java, Spring Boot, JavaScript, TypeScript, Angular, RxJS, Vue, Blazor, .NET, and SQL. I am passionate about technology, committed to code quality, and always apply SOLID principles and best development practices in every project I work on.
+I am an **IT Analyst and Project Manager with a strong background as a full-stack developer**. I have experience in technologies such as Java, Spring Boot, JavaScript, TypeScript, Angular, RxJS, Vue, Blazor, .NET, and SQL.
+I’m passionate about technology, committed to code quality, and always apply SOLID principles and best development practices to every project I work on.
+
 ## 💼 Work Experience
 
-- **Roibos** *(Present)*  
-At Roibos, a marketplace that connects hotels with travel agencies through an advanced booking platform, I work as an IT Analyst and Project Manager.
-My role involves analyzing technical requirements, coordinating development tasks, and supervising a small team to ensure efficient project delivery. I also participate in architectural decisions, oversee system integrations, and contribute to the continuous improvement of internal tools and processes.
+**Roibos — Project Manager & IT Analyst** *(Present)*
+Roibos is a marketplace that connects hotels with travel agencies through an advanced booking platform.
+I lead a small development team, coordinate technical projects, and participate in architecture, integration, and process improvement across the platform.
 
 - **Logitravel** *(3 years)*  
   Development of web platforms for the tourism industry, optimizing processes and improving user experience using .NET, Angular, PostgreSQL.
